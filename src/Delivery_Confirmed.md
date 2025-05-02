@@ -1,0 +1,819 @@
+# Delivery: Confirmed
+
+*When a quiet delivery boy begins lacing organic meals with a banned, undetectable toxin, it seems like an act of twisted revenge against a city obsessed with wellness and image. But as influencers drop dead and suspicion mounts, a dogged detective and a blacklisted journalist uncover something far more disturbing: the poison isn’t random—and the victims were marked years ago. In a world where food is faith and apps are gospel, Delivery: Confirmed unpacks a chilling conspiracy where every bite could be part of a corporate experiment... and the truth is buried in plain sight.*
+
+[Download EPUB](/Delivery_Confirmed.epub)
+
+# Chapter 1: The Heat of Hyderabad
+
+The helmet traps the sweat against my forehead. It itches. The air tastes of frying oil and exhaust—Hyderabad in mid-April. On my back, a bulky, red-hot bag of food, the kind they say keeps things “fresh.” I smile at the irony.
+
+“Order number 548\. Banjara Hills. Vegan bowl, no onion, no garlic, high on smugness,” I murmur to myself, reading off the app.
+
+The engine hums beneath me like an obedient dog. I weave through traffic like I’ve always done—fluid, invisible, forgettable. No one ever really looks at a delivery boy. We're just part of the background noise now, like honking horns or blinking traffic lights.
+
+I glance down at the bag. Inside, nestled in between eco-friendly packaging and artisanal condiments, is my little addition. Tasteless, odorless, irreversible. Just a drop. Less than a raindrop, really. The toxin had no name in the lab—it was banned before it could get one. But I remember its number. I always remember the number.
+
+*214-B. Originally designed to kill a fungus that only grew on genetically modified basmati. Supposed to “protect the crop.”*
+
+I pull up to the apartment complex—glass, concrete, imported marble lobby. The kind of place where people complain about “organic quinoa being out of season.” The guard barely glances at me. The receptionist waves without looking. I am a shadow, moving through polished floors.
+
+She answers the door—thin, eyes full of the glow that comes from kale smoothies and curated playlists. “Thanks,” she says. Doesn’t even make eye contact.
+
+I smile. “Enjoy your meal, ma’am.”
+
+I walk away before she closes the door. Not too fast. Not too slow.
+
+*It’s not about the person. It’s about the idea. The city that feeds on fakes—fake food, fake health, fake morals. I’m not killing people. I’m killing the lie.*
+
+Outside, the sun is cruel again. I put the helmet back on, let the sweat return.
+
+There’s another order waiting.
+
+# Chapter 2: Flies on the Plate
+
+There’s a fly buzzing around the crime scene. I swat at it, but it’s too fast, too damn persistent. Just like the cases piling up on my desk. Another food poisoning. Another one. Another one. Each death, isolated at first. But the dead—they had the same story.
+
+I walk into the cramped, fluorescent-lit apartment kitchen, the kind where the smell of dishrags lingers longer than the food that’s ever cooked. The body lies on the floor—stiff, blue lips, vacant eyes. Same symptoms. Same aftermath. The victim was an influencer, or maybe she was just another influencer pretending to be something more. It doesn’t matter. She’s dead, and her followers will mourn her for a week.
+
+“Cause of death?” I ask the officer standing by the fridge, fiddling with his phone.
+
+“Acute poisoning. Something rare. Takes a few hours to hit.”
+
+I nod, absentmindedly eyeing the counter. There’s a delivery box there—sealed, pristine, and marked with the logo of one of the “organic” food services. How quaint.
+
+I think back to the last case. Same delivery service. Same outcome. But there’s no connection. Not yet. No solid trail. The poison’s still undetected in the tests. Untraceable, as if it was meant to disappear.
+
+I should’ve known better. It’s always something like this. The deeper I dig, the more empty I feel. Like a plate, washed clean.
+
+I pull out the delivery bag. It’s a package—fresh, green, everything that screams “sustainable” and “healthy.” But something about the way the package is sealed... it gives off a chill. I open it, and there it is: the bowl, untouched. Vegan, gluten-free, no onion, no garlic, high on smugness, as the app likes to call it.
+
+The food inside smells... off. Not rancid, just... *off*. I can’t explain it. Maybe it’s the plastic, the fake labels, the sheen on the tofu, or the untouched leaves. But something doesn’t sit right. I lean in closer.
+
+That’s when I see it.
+
+A tiny, near-invisible drip of liquid at the bottom of the bowl. No one else notices it. It’s almost as if it’s waiting. Like the fly on the wall. A signal.
+
+My mind starts connecting the dots. The cases from the last few weeks, the ones that didn’t make sense—why were the victims so careful about their food? They all chose food from the same places: the apps, the “organic” services, the clean-eating spots. But this never happened before. No one had ever died from pesticide poisoning through food delivery.
+
+But this was different.
+
+I pick up the bag and let it hang in my hands, the weight heavy in a way I can’t quite place. The deaths, they weren’t just accidents. They were... *planned*.
+
+I stare at the fly, buzzing louder now. It’s mocking me, or maybe it’s just doing what flies do. But it feels like a warning.
+
+# Chapter 3: Between the Lines
+
+Sometimes the stories you can’t print are the ones that stay with you.
+
+They hum in the background, like an old radio in another room. You don’t always hear the words — just the signal. Persistent. Interfering. Familiar.
+
+That’s how this feels.
+
+People are dying. Quietly. Elegantly. As if death has learned to dress itself up in wellness hashtags and plant-based packaging.
+
+Food delivery apps posting condolences. Influencers' last meals going viral for all the wrong reasons. Yet the official reports say nothing — "natural causes," "underlying condition," the same tired phrases arranged like caution tape across truth.
+
+But I’ve seen this before.
+
+Not exactly. Not with this much polish. But the *pattern*. The tidiness of it. The way certain names never appear. The way certain companies vanish from databases overnight. The way one day a trial site is buzzing with scientists and farmers — and the next it’s a barren plot no one talks about.
+
+There was a piece I tried to write once. It never saw daylight. Too many missing parts. Too many unanswered questions. All I had were interviews that trailed off mid-sentence and lab reports with redacted lines. And a sense — no, a certainty — that something was wrong.
+
+I filed it away. Back then, I told myself it was over. That the system had closed its doors and swallowed the evidence whole.
+
+But now the symptoms are returning. Only this time, they’re harder to ignore.
+
+This time, people are watching.
+
+And if I’m right — if this is connected — then what’s happening isn’t just a tragedy.
+
+It’s a harvest.
+
+Of something we were never meant to eat.
+
+# Chapter 4: The Game Behind the Game
+
+It’s always quieter at night.
+
+The streets of Bangalore hum differently after sunset. The buzz of the city fades into a low murmur as people begin winding down, heading home, or gathering in dim-lit cafés. The lights flicker on, casting long, soft shadows that seem to stretch on forever. But tonight... it’s different.
+
+The city is buzzing, but it's not for the usual reasons. There’s an energy in the air, a kind of electric hum that has nothing to do with the traffic. The IPL is on. Everyone’s glued to their screens, eyes fixed on the cricket match. The entire city is divided—orange, purple, and green jerseys everywhere, like a mass of confused, hopeful, flag-waving soldiers. They’re all waiting for the one moment. The one hit. The one run that’ll decide the winner. I can feel the pulse of it, the collective heartbeat of a city obsessed with its teams, its idols, its distractions.
+
+I don’t get it.
+
+Here I am, delivering a box of gluten-free ice cream in the middle of it all. *Healthy*, they say. *Indulgent*, they say. It’s funny how they think this is food. Tiny scoops of nothing—made from almond milk, with a sprinkle of chia seeds to make it feel like it’s important. It’s everything they want and nothing they need. I pass through crowds of people, each with their eyes fixed on the screen, and I wonder how many of them know what they’re eating. How many of them realize that the food in their hands might be silently killing them, but none of it matters right now. The game is on.
+
+They don’t care about the poison. They don’t care about the crops, the farmers, or the long-term cost of it all. They care about which jersey is going to win today, which player is going to make the catch, which bat is going to hit the next six. It’s all part of the game, isn’t it? Distract them. Keep them entertained. Make them think the world revolves around something that doesn’t matter. Anything to avoid the bigger truths.
+
+I shake my head as I ride. The bike hums beneath me, steady, like the beat of a drum. The streets blur as I move past them, through the pockets of cheering and the excited shouts of people who have no idea. *It’s just a game,* I think to myself. *Just a distraction.*
+
+But the ice cream is cold in my hands, just like the rest of it. Cold, and empty.
+
+I reach the building, a luxury apartment complex with guards who don’t even bother to look up from their phones. It’s funny—everyone has a phone in their hands these days. They all stare at their screens, checking the score, updating their status, posting pictures of their food, their drinks, their lives. Yet, they don’t notice the quiet hum in the background—the things happening outside the bubble they’ve created for themselves.
+
+The delivery is easy. Another door. Another security guard lost in the world of his screen. Another customer who thanks me with a half-smile, eyes still glued to the match. I hand them the box of ice cream, and their fingers brush mine briefly. I wonder, for a split second, if they taste it, if they feel the weight of the world pressing down at that moment.
+
+But it’s fleeting. It always is.
+
+I walk away quickly, my legs moving without thought, pulling the helmet over my head. The streets feel emptier now, as if the game itself is swallowing everything else whole. People are so distracted by what’s happening on their screens that they forget what’s happening outside of them. They forget the bigger picture, the deeper problems. They care more about which jersey is winning today than about the poison slowly seeping into their systems.
+
+I lean on the bike for a moment and look up at the night sky. *It’s all the same*, I think. The city, the game, the meal. It’s all just noise. A distraction. A way to keep them from seeing the real game.
+
+Another order awaits, and I know the cycle will continue. The world will turn, the games will end, but the silence remains. The truth remains hidden in plain sight.
+
+# Chapter 5: The Price of Perfection
+
+The camera clicks off, the ring light dims, and the perfect image is frozen in time. Another sponsored post, another pristine bowl of quinoa salad, drizzled with some kind of “superfood” dressing that probably costs more than most people make in a week. But that doesn’t matter, does it? Because it looks good. It looks *right*.
+
+I sit back, running a hand through my hair, my reflection staring back at me from the screen. The “Instagram version” of me. Perfectly curated. Carefully styled. The smile is rehearsed, the caption just the right blend of inspirational and relatable. \#CleanEats \#HealthyLifestyle \#SustainableLiving. They love it. They lap it up. I get my likes, my followers, my brand deals.
+
+And yet, I know. I know it’s all a lie.
+
+This isn’t real. None of it. The bowls of colorful smoothie bowls I post, the “farm-to-table” meals I promote—they’re not what they seem. The food I’m pushing is just packaged, overpriced junk dressed up in the guise of health. I’ve seen behind the curtain. I’ve been to those farms, those so-called “organic” operations, and I know how the game is played.
+
+The truth is ugly. The food is mass-produced, sprayed with chemicals, treated with GMOs, and packaged with labels that make people feel good about their choices. But they’re not making better choices. They’re just buying into a lie. They’re buying into a myth I’m helping to create.
+
+I take a deep breath, scrolling through the comments on my last post. “You inspire me\!” one of them says. “Can’t wait to try this recipe\!” says another. I type a quick reply, my fingers moving mechanically. *“Glad you like it, hun\! Keep eating clean\!”*
+
+The irony stings. Because I know exactly where this meal came from. The delivery service I used? They don’t care about organic. They don’t care about sustainability. They’re just another cog in the machine of deception. I’ve done the research. The ingredients they claim to source from “local farms” are often grown with synthetic pesticides. The “organic” promise is a joke. But no one cares. They see the pretty pictures, the glowing faces, and they buy it.
+
+It’s easier that way, isn’t it? To pretend. To keep up the façade. They don’t want to know the truth. They don’t want to hear that the food they’re consuming, the food they’re posting about on their feeds, is the very same thing that’s harming the planet, that’s harming their bodies.
+
+And I keep playing my part. Because what’s the alternative? The likes, the money, the deals—they don’t come if I stop. If I expose the truth, what happens to my brand? My livelihood? My followers would disappear in a heartbeat. *No one cares about the truth, not really.* They care about the illusion. They care about the image of perfection. And that image? That’s what feeds me. That’s what keeps me afloat in this world that demands more, always more.
+
+I scroll through my phone, checking for any new emails from brands. They want to know about my next post, my next “partnership.” I type a response with practiced ease, my mind somewhere else. It’s hard to focus when I know what I’m contributing to. I’ve lost count of how many influencers I’ve seen posting the same exact meal, all of us promoting the same misleading products, using the same buzzwords to sell the same lies.
+
+I try not to think about it. I can’t afford to. If I let it in, if I let myself feel too much, I’ll stop. I’ll *have* to stop. And then what? I’ve built an empire on this lie. I’ve built a career on it. There’s no turning back now. The world doesn’t want the truth; they want the fantasy. They want to believe that they’re making the right choices when they swipe their credit cards.
+
+And I... I keep selling it. I keep pretending, smiling for the camera, even though I know the farce I’m perpetuating. Even though I know the cost.
+
+The truth is buried in the food we eat, in the products we buy. But no one’s asking the right questions. No one’s looking behind the perfect plating, the aesthetic hashtags. And as long as they’re distracted by the glossy surface, I can keep playing my role. I can keep smiling, keep posting.
+
+After all, it’s just food, right?
+
+But deep down, I know. It’s never just food.
+
+# Chapter 6: A Pattern Emerges
+
+Another day, another poisoned plate. Another city. Another dead body.
+
+I sit in my office, looking at the string of cases in front of me—stacks of files, open tabs on my laptop, and a wall full of photos and evidence boards. It’s like I’m piecing together a puzzle that doesn’t quite fit. The deaths started out random—at least, that’s what they looked like on the surface. But the more I dive into them, the more something about them doesn’t sit right.
+
+The victims all ate from food delivery services. Organic food, clean food—no pesticides, no chemicals, that’s what they were told. They were “safe.” That’s what the ads promised. That’s what they believed. And yet, here they are—dead. And I’m left to pick up the pieces, trying to make sense of it all.
+
+It’s strange, isn’t it? How much people trust food delivery these days. They think the apps are safe. They think the labels mean something. All that talk about eco-friendly, clean-eating, farm-to-table—it’s just a façade.
+
+I look at the list of victims again. One from Hyderabad. Another from Mumbai. One more from Delhi. Different cities, different people, but something ties them all together. There’s a pattern here. I can feel it.
+
+The first case seemed like a one-off. A food poisoning incident gone terribly wrong. The second death, a woman in her thirties, the social media influencer—seemed like another tragic accident. A few more followed. But it wasn’t until I started talking to the families, to the people who knew them, that the picture started to come into focus.
+
+They were all careful. So careful about what they ate, where they bought it from. They all used food apps. The names pop up in my mind now—*EcoMeals*, *GreenBites*, *FarmFresh*. Companies that pride themselves on being pesticide-free, on offering the healthiest options. Organic meals that promise a better life, cleaner living. They were supposed to be safe. But now, they’re all connected to deaths.
+
+I pause, running my fingers over the crime scene photos, tracing the patterns of contamination. The forensic team hasn’t found any traces of common allergens, nothing that could explain these deaths. But there’s one thing I can’t ignore: the poison. It’s always the same. The poison isn’t something you can buy off a shelf. It’s *deliberate*.
+
+This wasn’t just bad food. This was calculated. The victims were *targeted*, not by accident, but by someone who knew exactly what they were doing.
+
+I start pulling up the delivery logs from one of the apps, cross-referencing with the locations where the poisonings occurred. The deliveries are always on time, always perfect. No one suspected anything. It’s almost too clean, too smooth. The food gets delivered, people eat, and they die—quietly, without a fight.
+
+I look up from my desk. The office is quiet now, the only sound the ticking of the clock on the wall. I’ve been at this for hours. Too long, maybe. But something is finally clicking. It’s not random anymore. This is no accident. These deaths are part of something bigger. Someone is making a point, and they’re doing it with food.
+
+Food. That’s where the answer lies.
+
+There’s a knock at the door. My partner, Arvind, steps inside, his expression grim. He’s holding another folder.
+
+“This came in,” he says, tossing it on my desk. “Another victim. Same delivery service. Same food.”
+
+I flip through the report. Another influencer. Another death. Another clean-eating cult member who trusted the app and got poisoned for their trouble.
+
+I lean back in my chair, running a hand through my hair. The faces of the victims flash in front of me, each one so sure that they were doing the right thing, so convinced that they were making better choices. All of them are so unaware of the danger lurking in their meals.
+
+But I know now. I can see the pattern.
+
+It’s a game of deception. Someone is using food as a weapon. And whoever’s behind it, they’re doing it on purpose.
+
+I pick up my phone and dial the number of the journalist I spoke to last week, the one who’s been covering the food industry closely. She’s not just a reporter—she’s starting to understand the deeper issues too.
+
+Maybe, just maybe, she’ll have the missing piece of the puzzle.
+
+### **Chapter 7: The Tangled Web**
+
+The news is everywhere now.
+
+It’s in the papers, on the TV, and scrolling through the endless feeds on my phone. "Food Poisonings Surge Across Major Cities\!" the headlines scream. “Deadly Toxin Found in Meals from Top Delivery Apps\!” The words swirl around me like smoke, but I don’t let them settle in. I can’t. It’s not my job to worry about the noise. It’s not my problem.
+
+I’ve always moved quickly, quietly. Never staying in one place too long. I show up. I deliver. I disappear. That’s the deal. No one needs to know my name, or the small details of my life. I’m invisible, and that’s how I like it.
+
+But now... now, they’re starting to look. The whispers are louder. The news anchors are talking about it on TV, people are passing rumors on social media, and the customers—my customers—are starting to ask questions. There’s a sharp edge to their voices now when they take the bags, like they’re afraid. But they still take the food. They always take the food.
+
+I wonder if any of them suspect me. If any of them can feel the weight of what’s inside their meals. But I can’t stop. I can’t back out now. I’ve crossed that line too many times. It’s too late for second thoughts.
+
+I’m doing this for a reason. I *know* why. But that doesn’t make it any easier. The harder I try to distance myself from the chaos, the more I see the cracks in the illusion. I see the faces of the victims, their eyes wide open, unaware of what they ate, unaware of the slow death that was creeping into their bodies, one meal at a time.
+
+I turn onto a new street, passing rows of brightly lit cafés, glancing at the endless lines of people glued to their phones. They're talking about it. About the poisonings. The fear. They’re sharing the articles, the tips on how to avoid the “dangerous” food services, but none of them are asking the right questions. None of them see what’s really happening here.
+
+I pull over to the side of the road and look at the order details on my phone. It’s another delivery. Another perfect meal that looks clean and pristine. Fresh ingredients, carefully selected, no signs of anything wrong. It’s packaged beautifully, the kind of food that makes people feel good about themselves. But it’s all a lie. It’s always been a lie.
+
+As I ride toward the delivery address, I think back to the influencer I delivered to last week. She smiled at me, thanked me, but her eyes were distracted, flicking between her phone and the meal in her hands. She didn’t see the truth. None of them do. They’re all too busy keeping up with the image—the perfect life, the perfect body, the perfect meal.
+
+But that image is a trap. It’s the very thing that’s killing them.
+
+I stop in front of another luxury high-rise. The security guard doesn’t look up, his attention focused entirely on his screen. Another perfect, polished exterior. Another world where nothing bad ever happens, where everything is just fine, as long as no one asks the right questions.
+
+I walk up to the door. The buzzer sounds, and the door swings open. A woman stands there, a young professional, her phone in her hand. She takes the bag from me without much thought, just another transaction, another “healthy” meal delivered straight to her door.
+
+I wonder what she thinks. Does she know? Does she feel anything different, or is she just as numb as the rest of them?
+
+“Thanks,” she says, still staring at her phone.
+
+I nod. “Have a good evening.”
+
+I turn away and walk back to my bike, but something feels heavier now. The weight of the silence. The weight of what I’m doing. It doesn’t feel as clean anymore. It doesn’t feel like it used to.
+
+I start the engine and ride off into the night, the noise of the city filling my ears. The streets are alive, people rushing about, but none of them see the cracks. None of them see the web being woven around them.
+
+But I know. I feel it. It’s all connected. All these little pieces, all these tiny choices, all leading to the same place.
+
+I’m not just delivering food anymore.
+
+I’m delivering something else.
+
+And it’s starting to feel like the web is tightening.
+
+# Chapter 8: “Controlled Variables”
+
+The boardroom was sleek, silent, and insulated from the chaos outside. On the screen at the far end, a news anchor was breathlessly recounting the latest death—“a tragic case of poisoning via a premium delivery service.” The anchor’s voice was just background noise to the real conversation happening inside.
+
+A man in a tailored grey suit leaned forward, remote in hand. He paused the screen on the victim’s photo.
+
+“That’s the fifth one in the last two months,” he said. “And now the media’s finally catching on.”
+
+Across from him, a woman tapped a pen against a notepad. “We were supposed to keep a low profile. Why now?”
+
+Another executive shrugged. “Because the pattern is breaking through. They’re not seeing it yet, but someone will connect the dots soon.”
+
+“And what about him?” the woman asked, voice clipped. “Our ex-employee. The courier.”
+
+Everyone in the room shifted slightly, uncomfortable.
+
+“Do we know how much he knows?” someone asked from the corner.
+
+The man in grey shook his head. “Not much. But he thinks he’s doing this for revenge. That’s the beauty of it.”
+
+There was a pause. Someone cleared their throat.
+
+“We terminated him two years ago. He was one of the field leads during the Bihar crop trials. When the GM strain failed and the company covered it up, he blew the whistle... or tried to.”
+
+“He lost everything,” the woman added. “His job, his credibility. He disappeared for a while.”
+
+“And now he’s reappeared,” the man said, flipping to the next slide on the screen: surveillance footage of a delivery—him, the former employee, now in uniform, walking away from a door, helmet under his arm.
+
+The woman narrowed her eyes. “He’s weaponizing the food. That much we know. But here’s the strange part... the autopsy results show a very specific pattern in the victims’ biochemistry.”
+
+Another executive raised an eyebrow. “Meaning?”
+
+“Meaning,” she said slowly, “the ones who died were all highly sensitive to the genetic markers used in our older modified crop strains. The poison he’s using interacts *with* that residue. Which means...”
+
+“...he’s testing for something,” the man finished, a little too calmly.
+
+“No,” the woman corrected him. “*We are.*”
+
+The room went still.
+
+It was the youngest among them, an R\&D analyst, who finally said it aloud. “What if we let it play out? Think about it: he thinks he’s acting on a vendetta. But from a scientific standpoint, this is field data. Real-time exposure. Human resistance profiling. The kind we could never get approval for.”
+
+The others looked at him, some with disbelief, others with dawning clarity.
+
+“It’s already happening,” he added. “We might as well observe.”
+
+There was a silence, thick and loaded.
+
+The man in grey clicked the remote again. The image of the delivery boy froze on screen—expression blank, posture calm, almost forgettable.
+
+"Let the test run," he said quietly. "We'll watch the variables."
+
+# Chapter 9: Symptoms
+
+They don’t all die.
+
+That’s what’s bothering me.
+
+Same poison. Same delivery app. Same presentation. But the outcomes? Inconsistent. Some are gone within hours. Others—nothing. A few even post selfies with the food, all smiles and filters, alive the next day, untouched.
+
+It’s not supposed to work like that.
+
+My plan was simple. *Clean eating? Let’s clean the system.* Target the elite, the wellness fanatics, the ones who talk about “farm-to-fork” while eating air-flown lettuce grown in labs. I thought I was controlling the chaos.
+
+But the chaos is outpacing me.
+
+The last woman, the one in Hyderabad—her reaction was almost immediate. Foaming, seizures, dead before the ambulance arrived. The man two days before her, in Gurgaon? He even tagged the meal in a story: *“Best gluten-free biryani I’ve ever had\!”* Still posting, still breathing.
+
+It doesn’t add up.
+
+I’ve started keeping a log. Nothing fancy. Just scribbles in a notebook. Names, cities, meals, outcomes. I’m trying to trace a pattern that keeps slipping through my fingers. And the more I write, the more the randomness unravels. This isn’t pure chaos. There’s a shape to it.
+
+I just can’t see what it is yet.
+
+The toxin isn’t homemade. It was given to me. A contact. Former scientist. He said it was trace-based, reactive to something already present in the food chain. He called it poetic justice — poison built to respond to poison.
+
+At the time, I didn’t ask questions.
+
+I was too consumed by what had been taken from me. The reports I had buried, the crop failure data no one wanted to publish, the silencing, the gaslighting, the isolation. The company had swept it all away, left me with nothing but rage and a body full of blame.
+
+So when the offer came to hit back, I didn’t hesitate.
+
+But now... I’m wondering if I was given a weapon or a leash.
+
+I replay my last delivery in my head — gluten-free ice cream, wrapped in eco-friendly packaging, sent to a man yelling at a cricket match on TV. IPL season. People are more worried about whose jersey wins than where their food comes from. And maybe that’s the point.
+
+*Keep them distracted while we poison them slowly.*
+
+I pull over at a chai stall, helmet resting on the seat beside me. My hands are shaking slightly. I tell myself it’s the caffeine, but I know better. Something’s not right. Someone’s watching.
+
+Or worse — *someone is letting me do this on purpose.*
+
+The logbook burns a hole in my backpack.
+
+I’m starting to feel like I’m not the one running this operation anymore.
+
+# Chapter 10: Pattern Recognition
+
+I’ve started seeing food differently.
+
+Not the way you look at a plate before eating, but the way you examine a murder weapon. The fork. The packaging. The scent. There’s violence in the details.
+
+I’m not supposed to be obsessed. I’m supposed to be objective. But obsession is how you survive cases like this.
+
+And this case?
+
+It’s not about food anymore.
+
+It’s about control.
+
+I sit in my office, staring at a map I’ve pinned to the wall. Cities. Victims. Timeline. Delivery routes. On the surface, it's random. People in Mumbai, Delhi, Bangalore, Pune — different diets, different apps, different packaging. But I’ve marked something new now.
+
+The ones who died… they all had something in common: not just food habits — *purchasing behavior*. They ordered from vendors marketing "clean," "green," or "organic" food. They were loyal to the illusion.
+
+The survivors? They were occasional buyers. Casual users. Dipping their toes in the clean food scene, not fully immersed.
+
+So maybe the poison isn’t acting alone.
+
+Maybe it’s interacting with something already inside them.
+
+I lean back in my chair, staring at the half-melted ice cream cup on the desk. I didn’t eat it. I won’t. But the lab’s running tests on it. I already know what they’ll find: nothing conclusive. Nothing on its own.
+
+But I also have something they don’t: the logbook.
+
+It arrived anonymously. Black cover. Spiral-bound. Handwritten notes, initials, dates. A courier handed it off to one of our guys outside the precinct. No return address. But I know who wrote it.
+
+The boy.
+
+Not really a boy. Mid-thirties maybe. Average face. Forgettable. But methodical. Angry.
+
+Broken.
+
+I flip through the pages again. He’s documenting his deliveries like a scientist. Dosage. Reaction. Location. It's not random to him anymore, even if it started that way. He’s tracking outcomes. Like he's trying to *learn* something.
+
+No. Like *someone else* is trying to learn something *through* him.
+
+That’s the new theory forming in my head, and I don’t like where it’s leading.
+
+A food poisoner working off vengeance is one thing.
+
+A corporate-backed human trial?
+
+That’s something else entirely.
+
+I pause at one page, halfway through the book. There’s a small star next to the name of a victim. She died within hours of eating. Beside her entry, he’s written:
+
+“Extreme reaction. Unexpected. Notes suggest elevated prior exposure.”
+
+Prior exposure… to what?
+
+GMO? A specific crop line?
+
+This isn't just about poisoning.
+
+This is *testing.*
+
+Who the hell is running the test?
+
+And why is our delivery boy just the delivery system?
+
+I scribble a note to myself:  
+ **Trace victim food history. Check old GM crop trial records.**
+
+I don’t have proof yet. But the shape of it is emerging. A disgruntled employee with access. A corporation with something to hide. And a wave of deaths that make too much sense to be coincidence.
+
+Someone is trying to see what sticks — what the body can resist — and using him to run the experiment.
+
+And now… I’m starting to think *we’re all in the trial.*
+
+# Chapter 11: “Buried Seeds”
+
+They met at a tea stall off the ring road in Bhubaneswar. No recorders, no notepads. Just two cups of masala chai and a quiet table under a rusting tin roof.
+
+The journalist arrived first — Niyati, early thirties, lean, sharp-eyed. The kind of person who never stopped looking like she was connecting dots even in her sleep.
+
+"You came," she said, half-smiling as the detective pulled up a chair.
+
+“I’ve read your stories,” he replied. “You buried one, though.”
+
+She raised an eyebrow. “Which one?”
+
+“The 2021 Bihar crop trials. The GM maize that failed under mysterious conditions.”
+
+Niyati's smile faded.
+
+“No one wanted to print that,” she said. “Editors killed it before it got to layout. Threats. Lawsuits. Even my name disappeared from the bylines for a few months. I still have the files, though.”
+
+“I need them,” the detective said simply.
+
+She looked around, then leaned in.
+
+“They were testing a variant of corn engineered to resist multiple pests and droughts. Sounded like a miracle solution. But after a year in the field, farmers reported strange health issues. Skin rashes. Respiratory problems. Livestock dying after eating leftover stalks. And then the suicides began.”
+
+“I remember the suicides,” the detective said. “Everyone blamed debt.”
+
+“Because that’s easier,” she said bitterly. “The company — **ZedGen Agrotech** — paid off families. Shut down the trials. Claimed it was sabotage. But I interviewed three lab assistants who worked under the field supervisor.”
+
+He sat up straighter. “The delivery guy?”
+
+“Before he vanished,” Niyati nodded. “He tried leaking documents to me. One batch of seeds had been genetically spliced to enhance nutrient absorption. But something was wrong — it made the plants draw toxins from the soil too efficiently. It turned them into sponges for chemical residue.”
+
+“And they were fed to humans?”
+
+“They were packaged into protein supplements and sold as health food in niche markets. Quiet launch. No regulatory disclosure. The thinking was — if it passed undetected, they’d scale it.”
+
+The detective exhaled slowly. “So the victims now…”
+
+“Could’ve been early consumers. Anyone who ate that stuff a few years ago might still have trace elements in their system. Now imagine introducing a designer poison that interacts *only* with those elements.”
+
+He stared at her. “A delayed reaction test.”
+
+“A human time bomb,” she replied. “But the company didn’t have to run the test themselves. That’s the genius of it.”
+
+“They let someone else do it.”
+
+She nodded. “The whistleblower becomes the weapon.”
+
+The tea went cold between them. The city moved around them, but their table sat still in time.
+
+Finally, the detective said, “You still have the documents?”
+
+“In a pendrive. Hidden.”
+
+“I need it. And I need you to go public. Soon.”
+
+She sighed. “If I do, I burn everything I’ve built. They’ll smear me again.”
+
+“You already know the answer,” he said gently. “This time, people are dying.”
+
+Niyati looked at him for a long moment. Then she pulled out a small, battered USB stick from her bag and slid it across the table.
+
+“Let’s dig it up.”
+
+# 
+
+# Chapter 12: Spoiled Roots
+
+I didn’t sleep last night.
+
+The cheap lodge room creaked with every passing scooter and ceiling fan twitch. My body was still, but my mind kept pacing the floor — replaying deliveries, faces, the way some people gasped and others just… didn’t.
+
+That’s when I knew:  
+ **It wasn’t the poison.**  
+ It was the people.
+
+Not all of them were the same. Something was inside them already. Residue. A primer. Something that made the toxin work like a key in a lock.
+
+I didn’t come to that realization in a flash of genius. It came slowly — like a fever settling behind the eyes. And once I saw it, I couldn’t unsee it.
+
+The poison wasn’t *causing* death.
+
+It was *triggering* something already inside them.
+
+And that’s when I remembered the fields. The trial sites. The kids with rashes and goats that died without a sound. That was two years ago. I kept samples. I documented everything. None of it mattered.
+
+Until now.
+
+The notebook was supposed to be for me — my private record, something to keep me grounded in the chaos. But somewhere along the way, it stopped being mine. I started writing like I was leaving breadcrumbs. Not for myself.
+
+For someone smarter.
+
+Someone who could see what I’d been too angry to understand.
+
+So I mailed it. No return address. No name. Just the raw data, and the quiet hope that someone would read it before it got buried like everything else.
+
+Since then, I’ve been retracing the edges of the plan — not mine, *theirs*.
+
+The man who gave me the poison said it would expose the truth. That it would find the ones who’d already been marked. He never said *how* it worked. Just that it would hurt the right people.
+
+At first, I believed him. It was comforting — the idea that revenge could be precise.
+
+But now I see the real design.
+
+The toxin wasn’t meant to punish.
+
+It was meant to **test**.
+
+Every time I logged a death, I wasn’t collecting justice. I was feeding them data. About exposure. Dosage. Genetic resilience. Everything they couldn’t get in a lab, they got through me.
+
+*I was the study.*
+
+But they made one mistake.
+
+They thought I was still angry enough to keep going without asking why.
+
+They thought I wouldn’t look at the gaps — the ones who didn’t die, the reactions that didn’t match.
+
+They underestimated what happens when a test subject realizes he’s being observed.
+
+I’m done being their courier.
+
+I’m no longer delivering poison.
+
+I’m delivering a message.
+
+And they’re going to read it loud and clear.
+
+# 
+
+# 
+
+# Chapter 13: Courier No More
+
+I started with the uniform.
+
+Burned it in an alley behind an abandoned warehouse on the outskirts of Bhubaneswar. The synthetic fabric curled like dead skin in the flames. No more logo. No more barcode. No more name stitched onto the chest like I was proud of it.
+
+I watched the fire until it collapsed into ash, then scattered the remains with my shoe.
+
+If they’re watching — and I know they are — they’ll think I’ve gone dark.
+
+They’re right.
+
+But not in the way they expect.
+
+I’ve spent weeks collecting. Not just memories or guilt — physical things. Packaging slips. Expired test kits. The small glass vial the man gave me on my first run, still half-full. I kept it. Like a fool. Like a trophy.
+
+Now it’s evidence.
+
+I’ve also got the names.
+
+Executives. Lab heads. Consultants who signed off on the Bihar trial, then vanished into other companies. ZedGen doesn’t operate in one place. It’s a hydra — biotech here, delivery tech there, nutrition startups and clean food apps masking the same rotting heart.
+
+They built a system that looks like progress.
+
+And they used people like me to run it.
+
+But they left a trail. Not paper. Not digital. Human.
+
+One of the survivors reached out to me last night.
+
+She recognized me — not by face, but by a tiny detail she noticed on the box flap. “There was this smudged **EcoMeals** sticker, half-peeled,” she’d sent in a photo. Six weeks ago, she’d stuck that same sticker under her fridge magnet board before throwing the rest away.
+
+She told me she’d felt sick for days—hallucinations, fevers—but woke up fine, too ashamed to go to a hospital. No police report. Just silence.
+
+**Then**, poking through her texts, she found the app’s “order confirmation”—it still showed a small thumbnail of the courier, with your helmet off and that same crooked smile. She tapped “Contact Courier” in the app and begged for any number. That’s how she got my burner.
+
+And yes, she still had the packaging.
+
+I met her near a temple at dusk. She didn’t ask questions. Just handed over the box, wrapped in newspaper, and walked away without looking back. Inside: an untouched portion of the same supplement bar I delivered, sealed, pristine.
+
+One of the originals.
+
+I’ve sent it to a contact I trust — someone who won’t ask where I got it or who I am.
+
+Let the labs scream when it hits their desk.
+
+But that’s not the real move.
+
+The real move comes tomorrow.
+
+There’s a warehouse on the outskirts of Hyderabad. Technically owned by a logistics startup, but I know who really funds it. Trucks roll in, drones fly out. It's one of their *distribution cores* — where test batches are stored and tagged before being disguised as everyday inventory.
+
+I’ve been there before. Delivered crates. Took notes.
+
+Tomorrow night, I’m going back.
+
+But not as a courier.
+
+As a correction.
+
+They turned me into a delivery system.
+
+Now I’m delivering a collapse.
+
+I was halfway through memorizing the shift schedules I’d lifted from a stolen ID card when my phone — a burner I almost never turn on — lit up.
+
+**Unknown Number.**
+
+I froze. No one should have this number.
+
+I let it ring.
+
+Then it buzzed again — this time, a message.
+
+*“I know what they did to you. Please talk to me. — N”*
+
+I stared at it for a long time.
+
+N.
+
+Niyati.
+
+I remembered her — sharp voice, sharper eyes. She once waited for me outside a clinic in Gaya, asking questions I didn’t answer. I thought she gave up.
+
+She didn’t.
+
+A second message came in.
+
+*“You’re not alone in this. We have proof now. The detective has the files. We can burn them the right way — legally. Publicly.”*
+
+Legally.
+
+Publicly.
+
+I almost laughed. As if that would stop them. As if truth mattered more than damage.
+
+Still, I didn’t delete the messages.
+
+I powered the phone off and stared into the dark.
+
+Let her think I’m considering it.
+
+Let them all wonder.
+
+Tomorrow, I finish what I started.
+
+And if she really wants to find me…  
+ she knows where the fire will be.
+
+# Chapter 14: Ash Code
+
+The compound was quiet.  
+ Too quiet for a building handling "last-mile logistics" in the middle of the night. No guards outside. No motion sensors tripping. Just a flickering overhead light and the low electric hum of machines sleeping with one eye open.
+
+He scaled the back fence with practiced ease. No more uniform. Just black cargo pants, a hoodie, and gloves. The stolen access card worked on the side door — for now. He had thirty minutes, maybe less, before someone noticed system activity in Hyderabad when the ID was logged as “inactive” in Mumbai.
+
+Inside, the air smelled of plastic and ammonia. Racks lined with crates. Not labeled with products, but codes. QR tags. Thermal stickers. He scanned with a cracked tablet — a tool repurposed from old delivery gear. The data streamed in fast.
+
+Batch IDs. Destination hubs. Chemical logs. And something else.  
+ Bio-interaction records.  
+ Columns with terms like: “absorption rate,” “neurological latency,” “adaptive response.”
+
+His hand tightened on the screen.  
+ It wasn’t a warehouse.  
+ It was a control center.
+
+He began plugging in a small device — a modified EMP charge, built from instructions he’d stolen off an open-source dark web forum for DIY counter-surveillance. Not elegant. Just enough to scramble data streams and fry internal backups.
+
+It clicked softly into place. He was about to activate it when—
+
+**“Don’t.”**
+
+The voice froze him mid-motion.  
+ Female. Steady. Unafraid.
+
+He turned slowly.
+
+Niyati stood at the other end of the corridor, a small flashlight in one hand, phone in the other. Recording. Not livestreaming — just documenting. Always gathering.
+
+“How did you—?”
+
+“I followed the signal ping from the old delivery app you logged into. You thought it was clean. It wasn’t.”
+
+He almost smiled. Almost.  
+ “You shouldn’t be here,” he said.
+
+“I had to be,” she replied. “You’re about to burn the only place that still holds physical evidence. Once it’s gone, they’ll blame it on rogue elements or call it a cyber-attack. No one will believe the rest.”
+
+“I’m not doing this for belief,” he said coldly. “I’m doing it because they made me into a tool. This is me breaking the machine.”
+
+Niyati stepped closer. Brave, or stupid. Maybe both.  
+ “You weren’t the only one they used. I’ve read the files. The food trial victims. The whistleblower suppression. The media is silencing. You’re standing in the belly of the thing. But if you burn it all — we lose the proof too.”
+
+He hesitated.  
+ “Then what? We print it? Push the story out? The world’s already choking on headlines. Everyone’s tired. They’ll scroll past it like another outrage between coffee ads.”
+
+She didn’t argue. She didn’t deny it.  
+ Because he was right.
+
+The truth alone wasn’t enough anymore.  
+ People needed *something they couldn’t ignore*.  
+ Something *in their hands*.
+
+Footsteps approached from behind — deliberate, worn smooth by habit.
+
+**“He’s not wrong,”** the detective said, stepping into view, coat unbuttoned, face lined with too many dead ends. **“You can’t shock a numb crowd.”**
+
+“You’re late,” Niyati muttered.
+
+“Had to follow your breadcrumb trail,” he replied. “The ping you chased — I intercepted it too. Tracked you both here.”  
+ He tapped his phone. “And cross-referenced it with an old ID from ZedGen’s security audit logs. Only one person ever got admin-level access and then went off-grid.” He nodded at the delivery boy. “You.”
+
+The boy’s eyes narrowed. “So what, we give up?”
+
+“No,” the detective said, walking slowly past the racks. “We repurpose. They trusted these systems — the apps, the riders, the whole ecosystem. It fed them, watched them, followed them into bathrooms and bedrooms. It’s *with them*, always.”
+
+He pointed to the nearest stack of insulated delivery bags, tagged and prepped for routes.
+
+**“You want people to pay attention?”**  
+ **“Turn their comfort into a mirror. Let them see the monster living in their convenience.”**
+
+Niyati stared at the glowing data.  
+ “We don't just expose ZedGen. We hijack the very network they used. Let every phone become a leak. Every delivery, a reckoning.”
+
+The boy looked between them — the journalist, the cop. His enemies, once. Now conspirators in something bigger than revenge.
+
+He reached for the EMP and disarmed it, slipping it into his bag.
+
+“We do it your way,” he said. “For now.”
+
+Niyati exhaled. A sound too small for the weight it carried.  
+ The detective nodded once, already scanning the backup servers.
+
+But the boy’s voice dropped, low and electric:
+
+**“If this fails — if they bury it again — we don’t go to the press next time.”**  
+ **“We go to their customers.”**
+
+Neither of them argued.
+
+Niyati hit stop on the recording, then held out a spare drive.  
+ “Let’s copy everything. Then we plant it where the algorithm *can’t* look away.”
+
+Together, they moved through the dark, three ghosts in a haunted system — extracting the truth byte by byte.  
+ Not broadcasting noise.  
+ Not chasing headlines.  
+ Delivering something else entirely.
+
+Something that would wake the world.
+
+# Chapter 15: Payload
+
+The trucks rolled out at dawn.
+
+Unmarked, silent, and synchronized — just like any other morning across India’s logistics veins. Boxes loaded. QR codes scanned. Routes optimized. From the outside, it looked like business as usual.
+
+Except today, the payload was different.
+
+Inside every insulated container, beneath the decoy food packets, were fragments of the truth: internal memos, genetic modification logs, suppression payments, clinical data with redacted names re-exposed. QR codes led to mirrored websites, whistleblower testimonies, even footage from the warehouse itself.
+
+Niyati had spent the last 48 hours without sleep — uploading, encrypting, broadcasting from multiple nodes. Each delivery was a Trojan horse. Each notification a digital spark.
+
+Push alert: *“Your order has arrived. So has the truth.”*
+
+They weren’t trying to go viral. That was a trap. People didn’t trust headlines anymore. They scrolled past scandals the way they swiped past ads. But people *did* trust something else.
+
+Their apps. Their inboxes. Their deliveries.
+
+The irony was poetic: the same infrastructure used to poison and surveil was now repurposed to expose and awaken.
+
+“Logistics is belief,” the detective said, watching the digital map light up as the parcels moved. “People trust what arrives at their doorstep more than what they see on the news.”
+
+He hadn’t intended to be here. But once he saw the warehouse, the patterns, the trial structure buried beneath logistics paperwork — he couldn’t walk away. Years of chasing petty murders and political dead ends had taught him one thing:
+
+If the truth doesn’t knock, no one opens the door.
+
+So they kicked the door in.
+
+The delivery boy — no longer just a node in their system — watched silently as his old route became a weapon against its masters. His face remained hidden. His voice stayed offline. But his signature was everywhere.
+
+In the metadata. In the timestamps. In the quiet revenge of unburied data.
+
+By mid-morning, corporate inboxes were melting. Boardroom VPNs showed red alerts. The company tried to kill the links. Block the IPs. Deny everything.
+
+Too late.
+
+The drop wasn’t centralized. It was decentralized chaos — messy, personal, real. Citizens received packages with their own delivery history attached. Some found receipts from the old “clean food” orders. Others found silent video reels — families sick after consuming trial supplements. It was intimate. Unignorable.
+
+Not everyone would believe it. But enough would question.
+
+And questioning was the start.
+
+As the sun climbed higher, the city shimmered with a kind of charged quiet. Like it knew something had shifted. That the food, the trust, the system they leaned on so casually… had been flipped.
+
+In the hideout, the trio watched it unfold. No speeches. No celebration. Just breath held in the aftermath.
+
+“We’ve just made ourselves targets,” Niyati said softly.
+
+“We already were,” the detective replied.
+
+The delivery boy didn’t say anything. He stood at the window, watching another courier zip by on an electric bike.
+
+“Will it be enough?” he asked finally.
+
+“Maybe not,” the detective said. “But it’s a start.”
+
+“Besides,” Niyati added, eyes glowing with fatigue and fire, “the next payload is already scheduled.”
+
+A pause.
+
+Then the detective asked, “What’s in the next one?”
+
+She smiled.
+
+“Hope.”
+

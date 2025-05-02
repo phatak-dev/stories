@@ -1,0 +1,6 @@
+[book]
+authors = ["phatak.dev"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Storyteller and the Machine"
