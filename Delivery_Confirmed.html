@@ -29,6 +29,7 @@
         <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="css/story.css">
 
 
         <!-- Provide site root and default themes to javascript -->
@@ -101,6 +102,15 @@
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDKJYZ15MC"></script>
+                <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                
+                  gtag('config', 'G-BDKJYZ15MC');
+                </script>
                 <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
@@ -156,6 +166,7 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="delivery-confirmed"><a class="header" href="#delivery-confirmed">Delivery: Confirmed</a></h1>
+<p><img src="/images/delivery_story_header.jpg#story-header" alt="Deliver Confirmed image" /></p>
 <p><em>When a quiet delivery boy begins lacing organic meals with a banned, undetectable toxin, it seems like an act of twisted revenge against a city obsessed with wellness and image. But as influencers drop dead and suspicion mounts, a dogged detective and a blacklisted journalist uncover something far more disturbing: the poison isn’t random—and the victims were marked years ago. In a world where food is faith and apps are gospel, Delivery: Confirmed unpacks a chilling conspiracy where every bite could be part of a corporate experiment... and the truth is buried in plain sight.</em></p>
 <p><a href="/Delivery_Confirmed.epub">Download EPUB</a></p>
 <h1 id="chapter-1-the-heat-of-hyderabad"><a class="header" href="#chapter-1-the-heat-of-hyderabad">Chapter 1: The Heat of Hyderabad</a></h1>
@@ -577,15 +588,22 @@ Delivering something else entirely.</p>
 <p>Then the detective asked, “What’s in the next one?”</p>
 <p>She smiled.</p>
 <p>“Hope.”</p>
+<h2 id="review"><a class="header" href="#review">Review</a></h2>
+<p>Share your thoughts at</p>
+<p>Amazon - <a href="https://www.amazon.in/dp/B0DJY7WR46">https://www.amazon.in/dp/B0DJY7WR46</a>.</p>
+<p>GoodReads - <a href="https://www.goodreads.com/book/show/233806277-delivery">https://www.goodreads.com/book/show/233806277-delivery</a>.</p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="Copyright.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="contact_us.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
+                            <a rel="next prefetch" href="Second_Story.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
 
                         <div style="clear: both"></div>
                     </nav>
@@ -593,30 +611,17 @@ Delivering something else entirely.</p>
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="Copyright.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="contact_us.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
+                    <a rel="next prefetch" href="Second_Story.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
             </nav>
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
