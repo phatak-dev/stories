@@ -1,0 +1,281 @@
+<!DOCTYPE HTML>
+
+<html class="light sidebar-visible" dir="ltr" lang="en">
+<head>
+<!-- Book generated using mdBook -->
+<meta charset="utf-8"/>
+<title>I Kill Me - The Storyteller and the Machine</title>
+<!-- Custom HTML head -->
+<meta content="" name="description"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="favicon.svg" rel="icon"/>
+<link href="favicon.png" rel="shortcut icon"/>
+<link href="css/variables.css" rel="stylesheet"/>
+<link href="css/general.css" rel="stylesheet"/>
+<link href="css/chrome.css" rel="stylesheet"/>
+<link href="css/print.css" media="print" rel="stylesheet"/>
+<!-- Fonts -->
+<link href="FontAwesome/css/font-awesome.css" rel="stylesheet"/>
+<link href="fonts/fonts.css" rel="stylesheet"/>
+<!-- Highlight.js Stylesheets -->
+<link href="highlight.css" id="highlight-css" rel="stylesheet"/>
+<link href="tomorrow-night.css" id="tomorrow-night-css" rel="stylesheet"/>
+<link href="ayu-highlight.css" id="ayu-highlight-css" rel="stylesheet"/>
+<!-- Custom theme stylesheets -->
+<link href="css/story.css" rel="stylesheet"/>
+<!-- Provide site root and default themes to javascript -->
+<script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+<!-- Start loading toc.js asap -->
+<script src="toc.js"></script>
+<meta content="I Kill Me" property="og:title"/><meta content="***In a world that hums with endless voices, he vanished without a sound.*** *A quiet act of defiance becomes a search for the self behind the static.* *A modern echo of Ray Bradbury’s “The Murderer,” tracing the stillness that survives beneath the digital roar.*" property="og:description"/><meta content="https://stories.madhukaraphatak.com/images/i_kill_me_header_scaled.png" property="og:image"/></head>
+<body>
+<div id="body-container">
+<!-- Work around some values being stored in localStorage wrapped in quotes -->
+<script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+<!-- Set the theme before any content is loaded, prevents flash -->
+<script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+<input class="hidden" id="sidebar-toggle-anchor" type="checkbox"/>
+<!-- Hide / unhide sidebar before it is displayed -->
+<script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+<nav aria-label="Table of contents" class="sidebar" id="sidebar">
+<!-- populated by js -->
+<mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+<noscript>
+<iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+</noscript>
+<div class="sidebar-resize-handle" id="sidebar-resize-handle">
+<div class="sidebar-resize-indicator"></div>
+</div>
+</nav>
+<div class="page-wrapper" id="page-wrapper">
+<div class="page">
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BDKJYZ15MC"></script>
+<script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                
+                  gtag('config', 'G-BDKJYZ15MC');
+                </script>
+<div id="menu-bar-hover-placeholder"></div>
+<div class="menu-bar sticky" id="menu-bar">
+<div class="left-buttons">
+<label aria-controls="sidebar" aria-label="Toggle Table of Contents" class="icon-button" for="sidebar-toggle-anchor" id="sidebar-toggle" title="Toggle Table of Contents">
+<i class="fa fa-bars"></i>
+</label>
+<button aria-controls="theme-list" aria-expanded="false" aria-haspopup="true" aria-label="Change theme" class="icon-button" id="theme-toggle" title="Change theme" type="button">
+<i class="fa fa-paint-brush"></i>
+</button>
+<ul aria-label="Themes" class="theme-popup" id="theme-list" role="menu">
+<li role="none"><button class="theme" id="default_theme" role="menuitem">Auto</button></li>
+<li role="none"><button class="theme" id="light" role="menuitem">Light</button></li>
+<li role="none"><button class="theme" id="rust" role="menuitem">Rust</button></li>
+<li role="none"><button class="theme" id="coal" role="menuitem">Coal</button></li>
+<li role="none"><button class="theme" id="navy" role="menuitem">Navy</button></li>
+<li role="none"><button class="theme" id="ayu" role="menuitem">Ayu</button></li>
+</ul>
+<button aria-controls="searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-label="Toggle Searchbar" class="icon-button" id="search-toggle" title="Search. (Shortkey: s)" type="button">
+<i class="fa fa-search"></i>
+</button>
+</div>
+<h1 class="menu-title">The Storyteller and the Machine</h1>
+<div class="right-buttons">
+<a aria-label="Print this book" href="print.html" title="Print this book">
+<i class="fa fa-print" id="print-button"></i>
+</a>
+</div>
+</div>
+<div class="hidden" id="search-wrapper">
+<form class="searchbar-outer" id="searchbar-outer">
+<input aria-controls="searchresults-outer" aria-describedby="searchresults-header" id="searchbar" name="searchbar" placeholder="Search this book ..." type="search"/>
+</form>
+<div class="searchresults-outer hidden" id="searchresults-outer">
+<div class="searchresults-header" id="searchresults-header"></div>
+<ul id="searchresults">
+</ul>
+</div>
+</div>
+<!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+<script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+<div class="content" id="content">
+<main>
+<h1 id="i-kill-me"><a class="header" href="#i-kill-me">I Kill Me</a></h1>
+<p><img alt="I Kill Me" src="/images/i_kill_me_header_scaled.png#story-header"/></p>
+<p><em><strong>In a world that hums with endless voices, he vanished without a sound.</strong></em><br/>
+<em>A quiet act of defiance becomes a search for the self behind the static.</em><br/>
+<em>A modern echo of Ray Bradbury’s “The Murderer,” tracing the stillness that survives beneath the digital roar.</em></p>
+<p><a href="./I_Kill_Me.epub">Download EPUB</a></p>
+<h2 id="silent-witness"><a class="header" href="#silent-witness">Silent Witness</a></h2>
+<p>David sat calmly across from Dr. Lyla Morris in a room that smelled faintly of antiseptic and recycled air. The walls were the color of unbrushed teeth—white in theory, gray in practice. A single surveillance camera blinked in the corner, though neither of them acknowledged it. Between them sat a metal table, clean except for the doctor’s tablet and an untouched glass of water.</p>
+<p>Dr. Morris tapped her screen, eyes flicking briefly upward. “David, before we begin—do you understand why you’re here?”</p>
+<p>“That depends who you ask,” he said, his voice measured. Not defensive. Not sarcastic. Just… tired.</p>
+<p>She studied him, adjusted her posture. “Let’s start with your version.”</p>
+<p>“I stopped answering messages. Turned off my phone. Walked away from my job. Some people call that a crisis.”</p>
+<p>“Your employer couldn’t reach you. Neither could your family. You didn’t just turn off your phone—you destroyed it. Same with your laptop. All your accounts.”</p>
+<p>“I simplified.”</p>
+<p>Her brow rose. “Most people simplify by deleting a few apps.”</p>
+<p>“Most people don’t know what silence sounds like anymore.”</p>
+<p>She noted something. Probably flagged the line. He didn’t mind.</p>
+<p>“You see your actions as what, then? A lifestyle change?”</p>
+<p>He paused, thoughtful. “I see them as survival.”</p>
+<p>“Why now?”</p>
+<p>He glanced past her shoulder at nothing in particular. Then back at her.</p>
+<p>“Because one morning I woke up and realized I couldn’t hear myself think. Everything I heard came from outside—notifications, feeds, expectations. None of it was mine.”</p>
+<p>Dr. Morris crossed her legs. “You understand why that concerns people.”</p>
+<p>David smiled faintly. “That I disappeared? Or that I wanted to?”</p>
+<h2 id="noise-within"><a class="header" href="#noise-within">Noise Within</a></h2>
+<p>The apartment buzzed, though nothing in it moved.</p>
+<p>David sat at his kitchen table in the pale glow of a laptop screen. Around him, technology whispered and shouted: his phone vibrated in uneven spasms; a smart speaker blinked, awaiting a command; his TV murmured a half-muted panel debate on geopolitics. Each screen seemed to compete for his attention with all the subtlety of toddlers.</p>
+<p>He stared, unblinking, as notifications bloomed across his screen like poppies in a war field.</p>
+<p>&gt; Slack: “Need eyes on the quarterly deck before 8am.”<br/>
+Instagram: “Where you been, man? You good?”<br/>
+Bank: “New terms of service. Action required.”<br/>
+Email: “72 unread.”</p>
+<p>His phone buzzed again. Three missed calls from his mother.</p>
+<p>He reached for it, paused, and instead turned it face down.</p>
+<p>The speaker chirped as if insulted.<br/>
+“David, would you like to resume your meditation playlist?”</p>
+<p>“No,” he said quietly.</p>
+<p>“Okay,” it replied cheerfully. “Playing Zen Wind, Volume III.”</p>
+<p>His hands closed into fists.</p>
+<p>He rose, walked to the kitchen counter, and unplugged the speaker. It blinked once, stubbornly restarting from battery backup. He stared at it like it had insulted him in a language only it understood.</p>
+<p>The city outside the window wasn’t quiet either—someone argued two floors up, and the whirring buzz of a drone hummed past like a giant wasp.</p>
+<p>David returned to the table. He opened a drawer beside him. Inside was an unopened flip phone—prepaid, untraceable, untouched. The plastic wrapping still crinkled at the corners.</p>
+<p>He ran his thumb across it, then left it where it was.</p>
+<p>He looked around his apartment, now fully aware that he hadn’t really been alone for years.</p>
+<h2 id="the-me"><a class="header" href="#the-me">The Me</a></h2>
+<p>The silence in the room was different now. Not awkward. Not hostile. Just full—like both of them were aware they’d stepped into deeper water.</p>
+<p>Dr. Morris tapped her stylus against the metal edge of the table. She hadn’t taken many notes. David noticed that.</p>
+<p>“You’re very articulate,” she said, keeping her voice measured. “Composed.”</p>
+<p>“I’m not sick,” David said. “I never said I was.”</p>
+<p>“No, you didn’t.” She leaned forward slightly. “But people who aren’t sick don’t typically vanish without explanation. They don’t throw away ten years of online history. Delete every trace of themselves. Break a perfectly good phone.”</p>
+<p>He shrugged lightly. “It wasn’t good. It was always listening.”</p>
+<p>“You sound paranoid.”</p>
+<p>“I sound aware.”</p>
+<p>Dr. Morris’s eyes lingered on his. It wasn’t the first time someone had said that to him—he could tell from her tone. A test. She wanted a reaction. He gave her none.</p>
+<p>“So help me understand,” she said. “You weren’t having a breakdown. You weren’t afraid. You just... left?”</p>
+<p>David nodded. “I didn’t want to perform anymore.”</p>
+<p>“Perform what?”</p>
+<p>“Being reachable. Being productive. Being David M., team lead at Solaris Analytics, lover of coffee, sharer of beach sunsets. You know. The whole thing.”</p>
+<p>“You understand those performances are part of how we function in society.”</p>
+<p>He smiled, small and sharp. “Yes. That’s the problem.”</p>
+<p>She sat back. Folded her arms. “Your neighbor reported you, you know. Said they hadn’t seen you in weeks. No deliveries. No posts. No sound. They thought you were dead.”</p>
+<p>“I was just quiet.”</p>
+<p>“In this age, that’s close enough.”</p>
+<p>---</p>
+<p>[Silence.]</p>
+<p>---</p>
+<p>Dr. Morris glanced at her tablet, flicked to a new screen.</p>
+<p>“You used to post often. Daily, sometimes. Pictures. Thoughts. Even those little music clips. And then—nothing. A hard stop.”</p>
+<p>“I wanted to see what it felt like.”</p>
+<p>“And?”</p>
+<p>He tilted his head. “Freeing. Like I’d stepped out of a room I didn’t know I was locked in.”</p>
+<p>She paused, then asked carefully, “Do you think everyone should do what you did?”</p>
+<p>“No,” he said. “Some people need the noise.”</p>
+<p>“And you think you don’t?”</p>
+<p>He looked her in the eyes, finally. Steady. Calm.</p>
+<p>“I think I killed the part of me that did.”</p>
+<h2 id="i-kill-me-1"><a class="header" href="#i-kill-me-1">I Kill Me</a></h2>
+<p>She studied David, quiet for a while. Then, softly:</p>
+<p>“Kill.. that's a strong word.”</p>
+<p>He looked up, met her eyes.</p>
+<p>She continued, more curious than accusatory.<br/>
+“What did you mean by that?”</p>
+<p>David took a long breath, then leaned forward, elbows on the table, fingers loosely folded.</p>
+<p>“I mean,” he began, “I killed the part of me that only existed to be seen.”</p>
+<p>He didn’t say it dramatically. No flourish. Just plainly, like stating a weather report.</p>
+<p>“The part that posted vacation photos to prove I was happy. The part that checked messages not to connect, but to maintain appearances. The part that thought in captions, filtered in real time.”</p>
+<p>He paused, then added, “He wasn’t a villain. Just tired. Addicted. Pavlov with a touchscreen.”</p>
+<p>Dr. Morris didn’t write it down. She just listened.</p>
+<p>David continued. “You can’t gently walk away from something that lives inside your habits. You can’t log out of something that rewired your brain. So I had to kill it. And not with drama. Quietly. Coldly. Like scraping a name off glass.”</p>
+<p>His eyes darkened—not with anger, but conviction.</p>
+<p>“And here’s the thing. That version of me—the one the world thought was alive—he had thousands of connections. Likes. Metrics. Momentum. But the real me?”</p>
+<p>He tapped his chest.</p>
+<p>“This one didn’t exist. Not online. Not in any database. And for the first time in years, I could hear him think.”</p>
+<p>Silence. Then:</p>
+<p>“I thought I’d be alone when I did it. But I won’t be.”</p>
+<p>Dr. Morris raised an eyebrow.</p>
+<p>“There are others,” he said. “Already watching. Already restless. They don’t know it yet, but they’re starving. For silence. For space. For the part of themselves they forgot existed.”</p>
+<p>He leaned back in the chair.</p>
+<p>“One by one, they’ll find the wires. And they’ll start cutting.”</p>
+<h2 id="review"><a class="header" href="#review">Review</a></h2>
+<p>Share your thoughts at</p>
+<p>Amazon - <a href="https://www.amazon.in/dp/B0FFPBBC79">https://www.amazon.in/dp/B0FFPBBC79</a>.</p>
+<!---
+GoodReads - [https://www.goodreads.com/book/show/234846948-shared-silence](https://www.goodreads.com/book/show/236473537-the-unnamed).
+--->
+</main>
+<nav aria-label="Page navigation" class="nav-wrapper">
+<!-- Mobile navigation buttons -->
+<a aria-keyshortcuts="Left" aria-label="Previous chapter" class="mobile-nav-chapters previous" href="The_Unnamed.html" rel="prev" title="Previous chapter">
+<i class="fa fa-angle-left"></i>
+</a>
+<div style="clear: both"></div>
+</nav>
+</div>
+</div>
+<nav aria-label="Page navigation" class="nav-wide-wrapper">
+<a aria-keyshortcuts="Left" aria-label="Previous chapter" class="nav-chapters previous" href="The_Unnamed.html" rel="prev" title="Previous chapter">
+<i class="fa fa-angle-left"></i>
+</a>
+</nav>
+</div>
+<script>
+            window.playground_copyable = true;
+        </script>
+<script src="elasticlunr.min.js"></script>
+<script src="mark.min.js"></script>
+<script src="searcher.js"></script>
+<script src="clipboard.min.js"></script>
+<script src="highlight.js"></script>
+<script src="book.js"></script>
+<!-- Custom JS scripts -->
+</div>
+</body>
+</html>
