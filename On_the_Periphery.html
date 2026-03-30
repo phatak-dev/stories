@@ -1,0 +1,389 @@
+<!DOCTYPE HTML>
+
+<html class="light sidebar-visible" dir="ltr" lang="en">
+<head>
+<!-- Book generated using mdBook -->
+<meta charset="utf-8"/>
+<title>On The Periphery - The Storyteller and the Machine</title>
+<!-- Custom HTML head -->
+<meta content="" name="description"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="favicon.svg" rel="icon"/>
+<link href="favicon.png" rel="shortcut icon"/>
+<link href="css/variables.css" rel="stylesheet"/>
+<link href="css/general.css" rel="stylesheet"/>
+<link href="css/chrome.css" rel="stylesheet"/>
+<link href="css/print.css" media="print" rel="stylesheet"/>
+<!-- Fonts -->
+<link href="FontAwesome/css/font-awesome.css" rel="stylesheet"/>
+<link href="fonts/fonts.css" rel="stylesheet"/>
+<!-- Highlight.js Stylesheets -->
+<link href="highlight.css" id="highlight-css" rel="stylesheet"/>
+<link href="tomorrow-night.css" id="tomorrow-night-css" rel="stylesheet"/>
+<link href="ayu-highlight.css" id="ayu-highlight-css" rel="stylesheet"/>
+<!-- Custom theme stylesheets -->
+<link href="css/story.css" rel="stylesheet"/>
+<!-- Provide site root and default themes to javascript -->
+<script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+<!-- Start loading toc.js asap -->
+<script src="toc.js"></script>
+<meta content="On the Periphery" property="og:title"/><meta content="***On the Periphery** follows a night janitor working through university rooms where ideas are formed, argued, and eventually preserved. As discoveries take shape just beyond his understanding, he witnesses the patterns of significance without ever claiming them, moving quietly through spaces, history will later remember.*" property="og:description"/><meta content="https://stories.madhukaraphatak.com/images/A_Passport_Of_Page_Title.jpg" property="og:image"/></head>
+<body>
+<div id="body-container">
+<!-- Work around some values being stored in localStorage wrapped in quotes -->
+<script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+<!-- Set the theme before any content is loaded, prevents flash -->
+<script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+<input class="hidden" id="sidebar-toggle-anchor" type="checkbox"/>
+<!-- Hide / unhide sidebar before it is displayed -->
+<script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+<nav aria-label="Table of contents" class="sidebar" id="sidebar">
+<!-- populated by js -->
+<mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+<noscript>
+<iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+</noscript>
+<div class="sidebar-resize-handle" id="sidebar-resize-handle">
+<div class="sidebar-resize-indicator"></div>
+</div>
+</nav>
+<div class="page-wrapper" id="page-wrapper">
+<div class="page">
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BDKJYZ15MC"></script>
+<script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                
+                  gtag('config', 'G-BDKJYZ15MC');
+                </script>
+<div id="menu-bar-hover-placeholder"></div>
+<div class="menu-bar sticky" id="menu-bar">
+<div class="left-buttons">
+<label aria-controls="sidebar" aria-label="Toggle Table of Contents" class="icon-button" for="sidebar-toggle-anchor" id="sidebar-toggle" title="Toggle Table of Contents">
+<i class="fa fa-bars"></i>
+</label>
+<button aria-controls="theme-list" aria-expanded="false" aria-haspopup="true" aria-label="Change theme" class="icon-button" id="theme-toggle" title="Change theme" type="button">
+<i class="fa fa-paint-brush"></i>
+</button>
+<ul aria-label="Themes" class="theme-popup" id="theme-list" role="menu">
+<li role="none"><button class="theme" id="default_theme" role="menuitem">Auto</button></li>
+<li role="none"><button class="theme" id="light" role="menuitem">Light</button></li>
+<li role="none"><button class="theme" id="rust" role="menuitem">Rust</button></li>
+<li role="none"><button class="theme" id="coal" role="menuitem">Coal</button></li>
+<li role="none"><button class="theme" id="navy" role="menuitem">Navy</button></li>
+<li role="none"><button class="theme" id="ayu" role="menuitem">Ayu</button></li>
+</ul>
+<button aria-controls="searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-label="Toggle Searchbar" class="icon-button" id="search-toggle" title="Search. (Shortkey: s)" type="button">
+<i class="fa fa-search"></i>
+</button>
+</div>
+<h1 class="menu-title">The Storyteller and the Machine</h1>
+<div class="right-buttons">
+<a aria-label="Print this book" href="print.html" title="Print this book">
+<i class="fa fa-print" id="print-button"></i>
+</a>
+</div>
+</div>
+<div class="hidden" id="search-wrapper">
+<form class="searchbar-outer" id="searchbar-outer">
+<input aria-controls="searchresults-outer" aria-describedby="searchresults-header" id="searchbar" name="searchbar" placeholder="Search this book ..." type="search"/>
+</form>
+<div class="searchresults-outer hidden" id="searchresults-outer">
+<div class="searchresults-header" id="searchresults-header"></div>
+<ul id="searchresults">
+</ul>
+</div>
+</div>
+<!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+<script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+<div class="content" id="content">
+<main>
+<h1 id="on-the-periphery"><a class="header" href="#on-the-periphery">On the Periphery</a></h1>
+<p><em><strong>On the Periphery</strong> follows a night janitor working through university rooms where ideas are formed, argued, and eventually preserved. As discoveries take shape just beyond his understanding, he witnesses the patterns of significance without ever claiming them, moving quietly through spaces, history will later remember.</em></p>
+<p><img alt="A Passport of Pages" src="/images/on_the_periphery_title.jpg#story-header"/></p>
+<p><a href="/On_the_Periphery.epub">Download EPUB</a></p>
+<h3 id="chapter-1--routine"><a class="header" href="#chapter-1--routine"><strong>Chapter 1 — Routine</strong></a></h3>
+<p>I begin with the doors because they tell me whether the night will behave. The east entrance sticks in damp weather; the latch must be lifted before it will turn. I do not force it. Forcing makes noise, and noise brings people back who should have gone home. When the latch lifts cleanly, I know the air has settled.</p>
+<p>The building holds its breath at night. During the day it exhales constantly—voices, footsteps, the soft argument of chalk. At night it keeps what it has. I work better then.</p>
+<p>I keep the same order every evening. East corridor first, then the stairwell, then the long room with the boards. If I change the order I will forget something, not because I am careless but because the order carries the remembering for me. The floor near the radiators needs less water. The sinks in the second room need more. These things are reliable.</p>
+<p>The boards are my last task. I do not like to clean them before the floors, because chalk dust settles and then rises again when I mop. It makes a film on the black surface that shows up under the lamps. A board should be either used or clean. The half-state is the problem.</p>
+<p>Tonight the boards are used in the ordinary way. Curves, mostly. Long, even arcs that repeat across the surface. Some are drawn with care, the chalk turned so it wears evenly. Others are quick, the lines broken where the chalk caught. I can tell who draws which without knowing their names. One presses too hard and snaps the chalk often. Another writes as if apologizing to the surface.</p>
+<p>I wipe from left to right. It keeps the dust from falling into the tray too quickly, which makes it spill. I replace the eraser when the felt grows thin. A thin eraser leaves streaks, and streaks look like intention. I do not leave intention behind.</p>
+<p>In the corner of one board there is a smudge I have never been able to remove. It is not chalk. It is older. I clean around it. Someone once tried to scrape it with a blade and left a mark worse than the stain. I do not scrape.</p>
+<p>The people who use the room do not speak to me much. This is not discourteous. They are thinking when they pass, and thinking pulls the eyes inward. When they do speak it is usually to ask whether I have seen a notebook or a piece of chalk. I have seen the chalk. I have not seen the notebooks. Papers blend.</p>
+<p>I know their hours. I know who leaves early and who stays until the lamps hum. One comes late and leaves late, and I clean around him. Another arrives early and leaves his coat on the chair, which means I will need to lift it when I sweep. I fold coats the same way every time. Sleeves inward, collar straightened. I do not know if this matters to them. It matters to me.</p>
+<p>Tonight there are no raised voices. Yesterday there were some, low but sharp, and they left marks. A heavy diagonal line through a drawing means disagreement. A neat cross-out means correction. These are different actions. I remove both.</p>
+<p>The curves repeat across the boards. They intersect and separate. I do not follow them. Following is not my task. I note instead where the chalk has been replaced with a newer stick, brighter, less worn. That means someone cared enough to fetch another piece rather than press harder. This usually happens when they expect to return.</p>
+<p>I finish the first board and step back to check for ghosts. Under the lamps, erased lines can reappear faintly if the pressure was uneven. I pass the eraser again where needed. When the surface is right, it absorbs the light evenly.</p>
+<p>There is a window in the room, high and narrow. At night it reflects the boards back at themselves. I see my own movement doubled. I do not look at my face. Faces are variable.</p>
+<p>When the boards are clean, the room looks larger. This is always the case. Writing makes a room smaller. It gives the eye places to stop. Clean boards let the eye travel, and travel is tiring.</p>
+<p>I rinse the clothes and hang them in order. The one for the boards goes last. Chalk dries the skin if you are not careful. I have learned to keep my hands out of the water longer than needed.</p>
+<p>Before I turn off the lamps, I walk through the room once more. Chairs aligned. Waste emptied. No chalk left on the ledge. Sometimes they leave a single mark by accident, a dot or a short line, as if testing whether the board is still there. I remove these as well. Accidents look like beginnings.</p>
+<p>When I close the door, the room keeps what I have done to it. In the morning they will come back and make it smaller again. This is expected. I do not mind.</p>
+<p>Nothing tonight resists me. That is how it should be.</p>
+<h3 id="chapter-2--waves"><a class="header" href="#chapter-2--waves"><strong>Chapter 2 — Waves</strong></a></h3>
+<p><img alt="Wave Image" src="/images/waves_chapter2.png"/></p>
+<p>The boards are not fully clean when I arrive, and this tells me someone has decided something.</p>
+<p>Usually they leave nothing. Sometimes they forget a corner or a word too small to matter, but this is different. Tonight, whole sections have been spared. The lamps show it clearly: long curves left intact, repeating across two boards, aligned carefully so that one continues where the other ends.</p>
+<p>I set down the bucket and stand for a moment to see what has been kept. It is not careless work. The lines are smooth, drawn with a steady hand. The chalk has been turned as it was used; there are no flat edges, no sudden thickening where pressure changed. Whoever drew these did not rush.</p>
+<p>The curves rise and fall evenly. They cross one another and separate again without breaking. In places, two sets overlap and produce a denser pattern, but even there the spacing is regular. Nothing is crowded. Nothing looks like it was added later to correct something else.</p>
+<p>I prefer surfaces like this. The eraser moves easily along a curve. Straight lines tend to catch; corners trap dust. Curves guide the hand. They suggest where to go next without instruction.</p>
+<p>I begin at the far left board, as always. I erase the sections that have already been disturbed—numbers, a few short notes, a diagram half-smudged where someone leaned against it. I leave the curves for now. There is no rule that says I must erase in any particular order, but I do not like to break a pattern abruptly. It feels like tearing cloth instead of unpicking a seam.</p>
+<p>As I work, I notice that the curves repeat with small variations. Some are wider, some tighter, but the change is gradual. There is no sudden jump from one shape to another. This pleases me. Sudden changes usually mean disagreement.</p>
+<p>There are fewer marks of correction than usual. No heavy diagonal strokes. No layers of chalk pressed one on top of the other. The tray beneath the board holds only a thin line of dust, pale and even. When people argue, the dust piles up unevenly, thick in places where the eraser has been used hard. Tonight it has settled calmly.</p>
+<p>I can tell that more than one person has been here, but not many. Two, perhaps three. Their hands are similar enough that the lines do not fight each other. This is rare. Even when people agree, they often insist on leaving their own signature. Agreement usually contains small vanities. Here, those have been smoothed away.</p>
+<p>I erase the first curve. The chalk comes off cleanly, leaving no shadow. The board beneath is well-worn but even. I pass the eraser again, lightly, and the surface absorbs the light without streaking. I move on to the next.</p>
+<p>Halfway through the second board, I pause. There is a section where two sets of curves overlap so neatly that they form a darker band. It is balanced, centered, as if someone took care to place it exactly there. Removing it feels slightly wasteful, like throwing away something that fits its container.</p>
+<p>I erase it anyway. Fit is not permanence.</p>
+<p>As I clean, I think about how often this room looks like this before something changes. Smoothness usually precedes complication. When a drawing becomes too neat, someone will test it by adding something small at the edge, just to see whether it holds. That has not happened yet, or if it has, it has been removed carefully.</p>
+<p>The lamps hum softly. Outside, the corridor is empty. The building has settled into itself. I work steadily, keeping the cloth folded the same way so the pressure stays even. When the felt grows warm with use, I switch to the other side. Warm felt smears.</p>
+<p>On the last board, there is a single curve drawn higher than the rest. It does not connect to the others. It is not emphasized; no one has circled it or written beside it. It simply rises a little more than expected and then falls back into line.</p>
+<p>I notice it because it breaks the repetition, but only slightly. It could be a mistake, or it could be deliberate. I cannot tell, and it does not matter. I erase it with the same pressure as the rest.</p>
+<p>When the boards are clean, the room feels flatter. The lamps reflect evenly again. Without the curves, there is nothing to follow from one end of the room to the other. The eye stops where the board stops.</p>
+<p>I empty the tray and tap it once against the bin. The dust falls out in a single sheet. This is another sign of agreement. When chalk comes from many hands, it falls in clumps.</p>
+<p>Before I leave, I check for ghosts. There are none. The curves have left no trace. This is common. Continuous lines do not press deeply unless someone insists.</p>
+<p>I turn off the lamps and close the door. Tomorrow they will draw the curves again, or something like them. They have found a way of explaining that satisfies them for now. It will hold until it doesn’t.</p>
+<p>For the moment, the room has been returned to size.</p>
+<h3 id="chapter-3--particles"><a class="header" href="#chapter-3--particles"><strong>Chapter 3 — Particles</strong></a></h3>
+<p><img alt="Particle Image" src="/images/particle_chapter3.png"/></p>
+<p>The boards are crowded tonight, though much of the surface is untouched. Dense patches sit beside clean expanses, as if the room has learned to hold its breath in places.</p>
+<p>I notice this before I set down the bucket. The eye keeps stopping. There is nowhere to follow.</p>
+<p>The marks are small and firm. Dots, short strokes, compact symbols pressed carefully into the board. Around them are boxes and brackets, lines drawn not to continue but to contain. Arrows point inward, ending sharply at a letter or a number, as if indicating responsibility.</p>
+<p>I start where the chalk is thickest. The eraser meets resistance immediately. These marks have been pressed harder than the curves were. They release their dust reluctantly, and the tray beneath the board fills in clumps instead of settling evenly.</p>
+<p>I have to lift the eraser often. There is no direction to move in, only places to stop. Each cluster requires its own attention. I clean one group fully before moving on, because starting in the middle would leave fragments behind. Fragments are worse than omissions.</p>
+<p>There are many hands here. I can tell by the weight of the strokes and the angles of the symbols. Some letters lean forward, others pull back. Corrections sit on top of corrections. A parenthesis has been added after the fact, its curve tighter than the rest, as if drawn cautiously. Someone has underlined a term twice. Someone else has crossed it once and written something smaller above it.</p>
+<p>This is not a mess. It is a negotiation.</p>
+<p>The dust reflects that. It gathers thickly in some places and barely at all in others. When I tap the tray, part of it falls and part of it clings. I tap again, harder than I did last night.</p>
+<p>It takes longer. I do not think this directly, but my movements slow, and I become aware of the lamps warming the back of my neck. With the curves, the eraser guided itself. Here, I must constantly decide where to go next.</p>
+<p>I find myself remembering the boards from the previous night without intending to. The way the lines led across the surface. The way nothing stood alone. I dismiss the thought and continue.</p>
+<p>Near the far end of the room, there is a single dot drawn away from everything else. It is small, precise, and clean. No arrows point to it. No box surrounds it. It sits in its own clear space, untouched.</p>
+<p>I erase the surrounding board first. I work carefully so the eraser does not brush against it by accident. When the space around it is clean, the dot remains, alone and more noticeable than before.</p>
+<p>I stand back and look at it. It does not suggest where to move next. It does not invite repetition. It simply occupies its place.</p>
+<p>I erase it.</p>
+<p>When the last cluster is gone, the boards look emptier than they should. The blank spaces feel larger than before, as if something has been removed that once balanced them, even if it was inconvenient.</p>
+<p>I empty the tray. The chalk falls unevenly, leaving a pale smear along one edge. I wipe it out with my thumb.</p>
+<p>Before turning off the lamps, I check for ghosts. There are several this time. Faint impressions where symbols were pressed hard, shadows that catch the light when I tilt my head. I pass the cloth over them again, but they do not disappear completely.</p>
+<p>Discrete marks insist.</p>
+<p>I turn off the lights and close the door. The room does not settle as easily as it did before. It feels hollowed, returned to size but missing its weight.</p>
+<p>Whatever they are doing now, it does not flow. It counts.</p>
+<h3 id="chapter-4--both"><a class="header" href="#chapter-4--both"><strong>Chapter 4 — Both</strong></a></h3>
+<p><img alt="Both" src="/images/chapter4_both.png"/></p>
+<p>The boards are uneasy tonight. I can see it as soon as I turn on the lamps.</p>
+<p>They are not crowded, and they are not smooth. The space has been used, but not divided. Curves run partway across a board and then stop, interrupted by clusters of dots. In other places, dots sit directly on a curve, as if placed there deliberately, as if marking it. Someone has drawn arrows that follow the rise of a line before breaking off toward a symbol. Brackets attempt to hold sections together and fail, their ends not quite meeting.</p>
+<p>They have stopped keeping to their own spaces.</p>
+<p>I set down the bucket more carefully than usual. Chalk dust already coats the ledge in a thin, uneven layer. Some sticks have been snapped and fitted back together, their ends rough. This only happens when pressure has been misjudged.</p>
+<p>I begin at the leftmost board. The eraser moves along a curve easily at first, then catches when it reaches a dot pressed into the line. The curve fades; the dot smears. I lift the eraser and look at the mark it has left behind. It is neither one thing nor the other now.</p>
+<p>I adjust my grip and try again, lighter. The dot resists. I press harder, and the curve beneath it disappears entirely. The board shows a faint scar where the pressure was uneven.</p>
+<p>I do not like this. The eraser has always been sufficient. Tonight it feels imprecise.</p>
+<p>There are many hands here again, but unlike the previous night, they are working against one another directly. Corrections cross through curves instead of symbols. Dots have been circled, erased, and redrawn slightly to one side. Someone has written a small note above a line and then half-erased it, leaving only the bottom of the letters, as if unwilling to commit or fully withdraw.</p>
+<p>In the center board there is something that slows me down. A structure more careful than the rest. A curve drawn faintly, almost reluctantly, with a series of dots placed along it at regular intervals. Near it, a short notation—small, compact, pressed hard enough to leave a ghost even before it is erased.</p>
+<p>I do not know what it says. I can tell it took time.</p>
+<p>I erase around it first. The surrounding marks come away without trouble. When the area is clean, the curve and its dots stand alone, exposed. It looks unfinished, or perhaps tentative, like scaffolding left in place after the building has stopped.</p>
+<p>I remember the second night, without intending to. The way the curves filled the boards and guided the hand. I remember the third, how each cluster stood on its own and demanded attention. Neither memory helps me decide what to do next.</p>
+<p>I rest the eraser on the tray and wait. Chalk dust settles. The lamps hum. The room does not feel larger or smaller. It feels held.</p>
+<p>When I lift the eraser again, I make a small choice. I erase the curve lightly, leaving the dots intact. They remain, faint but present, a suggestion of placement without connection.</p>
+<p>I move on.</p>
+<p>Elsewhere, I do the opposite. I remove a cluster of dots and let a line pass through the space they occupied. There is no consistency to this. I am not trying to resolve anything. I am only trying to avoid damage.</p>
+<p>The boards clean unevenly. Some sections accept erasure without protest. Others hold on, leaving shadows no matter how carefully I pass the cloth. The tray fills quickly, then not at all. When I empty it, the dust falls in layers instead of sheets.</p>
+<p>By the time I reach the last board, I am tired in a way that has nothing to do with the work. The marks here are lighter, fewer. Someone has written “both” once, small and off to the side, then not underlined it or explained it further.</p>
+<p>I erase the word without thinking.</p>
+<p>I do not finish the board completely. In the upper corner, a short segment of a curve remains, crossed by a few faint points. It is small enough that it could be an oversight. It is not.</p>
+<p>I turn off the lamps.</p>
+<p>In the dark, the unfinished section does not matter. In the morning, it will either be erased by someone else or built upon. I have done what I can without choosing for them.</p>
+<p>As I close the door, I think—not for the first time—that some things resist erasure not because they are strong, but because they have not yet decided what they are.</p>
+<h3 id="chapter-5--residue"><a class="header" href="#chapter-5--residue"><strong>Chapter 5 — Residue</strong></a></h3>
+<p><img alt="Chapter 5" src="/images/chapter5_residue.png"/></p>
+<p>The boards are mostly clean when I arrive, but the room is not.</p>
+<p>This is unusual. Usually the disorder announces itself first on the walls. Tonight the walls have been disciplined, while the rest of the space has been allowed to loosen.</p>
+<p>Papers lie on the desks in uneven stacks. Some are folded, then folded again, the creases pressed flat as if they have been worried at. Others are spread open, face down, corners curling slightly where the air has caught them. I can tell which have been handled often by how soft the edges have become. Paper wears differently than chalk. It remembers.</p>
+<p>I pick up the nearest stack and square it against the desk. The pages resist alignment. Their edges do not quite agree. I tap them again, firmer. One sheet slides out and falls to the floor.</p>
+<p>I retrieve it and see that it has been written on lightly, the marks thin and cautious. Lines curve partway across the page and then stop. Small symbols appear beside them, not touching. In the margin, something has been crossed out so thoroughly that the paper has thinned. The center of the page is almost empty.</p>
+<p>I do not read it. Reading is not part of the task. I place the sheet back in the stack, but it no longer sits where it was before.</p>
+<p>The wastebaskets are heavier than usual. When I lift the first one, I feel it immediately in my wrist. The contents shift with a dry sound. I empty it into the larger bin and hear paper strike paper, then something harder. A snapped piece of chalk rolls free and comes to rest against the side. It has been broken cleanly, not worn down.</p>
+<p>I pause, then drop it in with the rest.</p>
+<p>Chairs have been moved. Two are pulled close together, angled toward the center board. Another sits apart, turned slightly away, as if left in a hurry or abandoned on purpose. I straighten them, then stop. The angles are not accidental. Someone placed them this way to face something that is no longer there.</p>
+<p>I leave them.</p>
+<p>On one desk there is a ruler laid diagonally across a page, not aligning with anything. A length of string sits beside it, frayed at one end. The string has left a faint chalk line on the desk surface, curved where it was pulled tight and then released. I lift it and coil it loosely before setting it back down. Coiled, it looks smaller, less insistent.</p>
+<p>The second wastebasket contains fewer papers but more fragments. Torn edges. Pieces too small to have been accidental. These have been destroyed, not revised. I shake the basket gently before emptying it. Nothing falls out until I tip it sharply. Some decisions require force.</p>
+<p>I return to the boards. There are faint ghosts where curves and dots were erased together, the surface dulled in patches. I pass the cloth over them again, though I know it will not help much. These marks were pressed into the board when someone insisted.</p>
+<p>On the ledge beneath the center board, I find a folded sheet tucked behind the chalk tray. It has been folded twice, then once more, compressed into a small square. I recognize the care in this. Things folded this way are meant to be kept.</p>
+<p>I hold it for a moment. The paper is warm from the room, softened by handling. I can feel the writing through it, slight ridges where the pencil pressed harder.</p>
+<p>I do not unfold it.</p>
+<p>I place it back where I found it, but slightly farther to the side, where it will not fall by accident.</p>
+<p>As I work, I become aware that I am moving more slowly than usual. Not because there is more to do, but because each object asks a different question. Chalk wants to be erased. Paper wants to be decided. Furniture wants to be agreed upon.</p>
+<p>I empty the last bin and tie the liner. The sound it makes when it tightens is final. I set it by the door and return to the room once more.</p>
+<p>When I turn off the lamps, the boards recede as they always do. The desks do not. In the dark, paper reflects faintly. Edges catch what little light remains. The room does not empty itself when the walls are clean.</p>
+<p>I close the door.</p>
+<p>Whatever they are doing now does not stay where it is put. It leaves things behind.</p>
+<h3 id="chapter-6--completion"><a class="header" href="#chapter-6--completion"><strong>Chapter 6 — Completion</strong></a></h3>
+<p><img alt="Completion" src="/images/chapter6.png"/></p>
+<p>The room is already lit when I arrive.</p>
+<p>This happens sometimes, but rarely this late. The lamps over the center board are on, and the others have been left dark, as if someone decided partway through that more light was unnecessary. The effect is uneven. Shadows collect where they normally don’t.</p>
+<p>The boards are nearly empty.</p>
+<p>Not cleaned in the usual way—no smears, no ghosts worked over repeatedly—but cleared. The surface is dull and even, as if nothing had pressed too hard. On the center board there remains a single line, thin and careful, running from left to right. It curves once, gently, then straightens. Near it, a small mark has been added, no more than a dot. There are no corrections.</p>
+<p>I stand longer than I need to. There is nothing to count, nothing to sort. The cloth hangs unused in my hand.</p>
+<p>Desks have been cleared. Papers are gone or stacked neatly in piles of exact height. No corners curl. No margins protrude. The room smells less of chalk and more of wool and old paper. Someone’s coat has been folded over the back of a chair, sleeves tucked inward. It is heavy, the kind worn for long hours indoors.</p>
+<p>I touch it briefly to check for a name. There is none.</p>
+<p>On the front table, a book has been left face-down. A slip of paper marks a place near the center. The pages are dense, the text small. I do not open it. Books that are left this way are not forgotten. They are waiting.</p>
+<p>The wastebaskets are almost empty. One contains a single sheet, folded once, then unfolded again. The crease runs through a line of writing, breaking it in two. I lift the sheet, smooth it on the desk, then hesitate. It does not belong anywhere else. I return it to the basket and do not empty it.</p>
+<p>There are people in the room, though fewer than before.</p>
+<p>Two stand near the center board, not speaking. One sits at a desk with his hands flat on the surface, as if feeling for vibration. Another leans against the wall, eyes closed. No one is writing. No one erases anything. A laugh occurs once, quickly, and stops.</p>
+<p>I move quietly. They do not notice me, or they notice and decide not to adjust.</p>
+<p>This is how it looks when something has settled.</p>
+<p>I straighten a chair that is slightly out of line, then push it back again. The angle is deliberate. I leave it.</p>
+<p>When I return to the boards, I raise the cloth and lower it without touching the surface. The remaining marks are not in the way. They do not interfere with cleaning. They do not ask to be removed.</p>
+<p>Still, after a moment, I wipe them away.</p>
+<p>The line disappears easily. The dot takes a little more pressure, but not much. The board returns to its neutral state, ready.</p>
+<p>I turn off the lamps one by one. The room darkens evenly this time. As I leave, I look back once. Without the writing, the space seems larger. Emptier. Finished.</p>
+<p>I lock the door.</p>
+<p>By morning, they will take what they need elsewhere. Whatever was decided here does not require the room anymore. It has moved on, carrying nothing visible with it.</p>
+<p>The floor is clean. The boards are clean. My work is complete.</p>
+<h3 id="chapter-7--pattern"><a class="header" href="#chapter-7--pattern"><strong>Chapter 7 — Pattern</strong></a></h3>
+<p>The next room takes less time.</p>
+<p>I notice this before I finish the first board. The marks are confident but ordinary. They fill space without pressing into it. Corrections are made immediately, not argued over. When I erase, the chalk comes away cleanly, leaving no shadows that ask to be revisited.</p>
+<p>This room is working toward something, but it is not there yet.</p>
+<p>I move through my rounds as usual. Corridors, stairwells, doors left unlocked and locked again. The building sounds the same as it always does. Pipes settle. Somewhere a window rattles once and stops.</p>
+<p>In the staff break room, someone has left a newspaper on the table. It is folded open to the middle. I wipe the surface around it before lifting it to clean underneath. The paper shows a photograph—men in dark coats standing near a board, their backs turned to the camera. Behind them is a drawing: a familiar curve, crossed by small points.</p>
+<p>I hold the paper longer than necessary.</p>
+<p>There is text beneath the image, but I do not read it closely. Names pass through my eyes without settling. Dates do not interest me. What holds my attention is the drawing. It is not identical to what I erased, but it is close enough that my hand remembers the motion.</p>
+<p>I fold the paper back the way I found it and set it aside.</p>
+<p>This has happened before.</p>
+<p>Not often, but often enough that I recognize the sequence. First, the boards fill quickly and badly. Then they argue with themselves. Then the work moves off the walls and into hands and pockets. Finally, the room empties all at once.</p>
+<p>Years ago, in another building, there was a room that went quiet in the same way. The lights were left on. The chairs were pushed back carefully. The boards were cleaned before I arrived. A week later, visitors began to appear, walking slowly, looking at the walls as if something might still be there.</p>
+<p>There was nothing.</p>
+<p>I did not understand what had happened then either. I only noticed that afterward, the room was treated differently. Locked more often. Cleaned less. Eventually, it was repurposed.</p>
+<p>I finish the break room and return the newspaper to the table. Someone else will read it properly. That is not my role.</p>
+<p>As I walk past the lab from before, I see that the door has been closed. A small sign has been placed nearby, temporary, printed on thin paper. I do not stop to read it. The room does not belong to the night anymore.</p>
+<p>I think about the pattern as I work, though I do not give it a name. When people are close to finishing something important, they grow quiet. They stop correcting one another. They leave fewer marks behind. They begin to clean their own spaces.</p>
+<p>This makes my job easier, but only briefly.</p>
+<p>In the last room of the night, someone has already begun again. Fresh chalk lies broken on the ledge. The first lines are tentative, reaching across the board without commitment. There is too much space left unused.</p>
+<p>I take out the cloth.</p>
+<p>Whatever it is this time will take days, or weeks, or years. I will see it when it starts to argue with itself. I will know it when the room empties.</p>
+<p>I do not need to know what it is called.</p>
+<h3 id="chapter-8--distance"><a class="header" href="#chapter-8--distance"><strong>Chapter 8 — Distance</strong></a></h3>
+<p>The instructions are taped to the door.</p>
+<p>They are printed on clean paper, centered, and sealed beneath a clear sleeve. I read them because they are addressed to me, though not by name. Certain surfaces are not to be cleaned. Certain boards are to remain untouched. Access is restricted to scheduled hours. Maintenance will be supervised.</p>
+<p>This changes the order of things.</p>
+<p>Inside, the room looks almost the same. The boards are still blank. The desks are still aligned. But a rope has been placed across the front, thin and pale, held up by two metal posts. It does not block the room so much as announce it.</p>
+<p>People are already there when I arrive. They stand near the rope, leaning forward slightly, hands behind their backs. Some take notes. One holds a camera and waits for others to move before lifting it. They speak quietly, as if sound itself might disturb something.</p>
+<p>No one sits.</p>
+<p>I move along the edges of the room, wiping what I am allowed to wipe. The floor near the boards is off-limits, marked with tape that outlines where desks once stood. The tape is not straight. Someone placed it carefully, but not precisely. I notice this and then look away.</p>
+<p>A man points at the center board and says, “This is where it happened.”</p>
+<p>There is nothing there.</p>
+<p>Another person nods and writes something down.</p>
+<p>I pass behind them to reach the far corner. As I do, one of them turns and almost collides with me. He apologizes quickly and steps aside, as if I were part of the furniture. He does not look again.</p>
+<p>Near the door, a small plaque leans against the wall, still wrapped in brown paper. The edges are sharp. It has not been handled much. I can tell by the way the paper sits against the metal.</p>
+<p>I do not touch it.</p>
+<p>I am halfway through cleaning the back row when someone says, “Please leave that.”</p>
+<p>The request is polite. It is not directed at me exactly, but it stops my hand. I lift the cloth away from the desk and step back. The surface is clean enough. It does not matter.</p>
+<p>From then on, I move only where the tape allows. The room has become narrow. There is less to do.</p>
+<p>The visitors continue to talk. They refer to times and places that are no longer present. They describe gestures, directions, moments of realization. They point at emptiness and agree with one another.</p>
+<p>I finish quickly.</p>
+<p>Before I leave, I look once more at the boards. The glass panels have been installed over one of them, secured with small metal brackets. The glass reflects the room back at itself. Lights, faces, movement. No chalk.</p>
+<p>I turn off what lights I am permitted to turn off and close the door behind me. The rope remains inside. The instructions remain outside.</p>
+<p>Down the hall, another room waits. Its boards are already marked. The chalk there has been pressed too hard, and the tray beneath is full.</p>
+<p>I take out my cloth and begin.</p>
+<h3 id="chapter-9--again"><a class="header" href="#chapter-9--again"><strong>Chapter 9 — Again</strong></a></h3>
+<p>The building is quieter tonight.</p>
+<p>Not empty—just settled. The kind of quiet that comes after decisions have been made elsewhere and passed down as instructions. Doors are locked that used to be open. Notices have been replaced with printed signs. Someone has taken care to make everything look deliberate.</p>
+<p>I start at the far end, in a room that has not learned its habits yet.</p>
+<p>The boards are already marked. The writing is neat, cautious. Too evenly spaced. Symbols repeat, then stop, as if the writer wasn’t sure how much room the idea would need. A line begins confidently and fades before it reaches the edge.</p>
+<p>This is how it always starts.</p>
+<p>The chalk is new. I pick up a piece and snap it in half against the tray. The sound is sharp, final. The shorter length fits my hand better. Someone nearby looks up at the noise, then goes back to what they were saying.</p>
+<p>“…they think it changes everything,” one voice says in the hallway.</p>
+<p>Another answers, “No, not everything. Just how we think about it.”</p>
+<p>There is a pause, then a laugh. It isn’t unkind. It sounds relieved.</p>
+<p>“I don’t really understand it,” the first voice admits. “But apparently no one does. Not completely.”</p>
+<p>“That’s what makes it important,” the other says.</p>
+<p>I erase from left to right. The marks come away easily. No resistance. No pressure beneath them. Whoever wrote this has not yet had to defend it.</p>
+<p>As I work, more voices pass by. Some are excited, some careful. I hear the same phrases repeated: <em>fundamental</em>, <em>counterintuitive</em>, <em>still being worked out</em>. I hear a name spoken several times. It does not attach itself to anything in my mind. Names rarely do.</p>
+<p>Someone stops at the door and looks in. “This is where the new group will be,” they say to no one in particular. “They’ll need more board space.”</p>
+<p>Someone else nods. “After what happened in the other room, they’re taking this seriously.”</p>
+<p>The other room is not mentioned again.</p>
+<p>I finish the first board and move to the second. Chalk dust gathers on my sleeves. I brush it away with the side of my hand and leave a pale streak on the fabric. It will wash out.</p>
+<p>By morning, these boards will be filled again. By next week, paper will begin to replace chalk. After that, the writing will simplify, not because it is understood, but because it needs to be taught.</p>
+<p>I have seen this part before.</p>
+<p>People will say they finally <em>know</em> something now. Others will say it raises more questions than it answers. Both will be right, and neither will be complete. The boards will carry the arguments for a while, then let them go.</p>
+<p>I turn off the lights I am allowed to turn off and leave the rest on. The hallway stretches ahead, long and ordinary, lined with doors that will need attention.</p>
+<p>I take out the cloth.</p>
+<p>It will take time.</p>
+<h2 id="review"><a class="header" href="#review">Review</a></h2>
+<p>Share your thoughts at</p>
+<p>Amazon - <a href="https://www.amazon.in/dp/B0GV3BGXS6">https://www.amazon.in/dp/B0GV3BGXS6</a>.</p>
+<p>GoodReads - <a href="https://www.goodreads.com/book/show/250315301-on-the-periphery">https://www.goodreads.com/book/show/250315301-on-the-periphery</a>.</p>
+</main>
+<nav aria-label="Page navigation" class="nav-wrapper">
+<!-- Mobile navigation buttons -->
+<a aria-keyshortcuts="Left" aria-label="Previous chapter" class="mobile-nav-chapters previous" href="A_Passport_of_Pages.html" rel="prev" title="Previous chapter">
+<i class="fa fa-angle-left"></i>
+</a>
+<div style="clear: both"></div>
+</nav>
+</div>
+</div>
+<nav aria-label="Page navigation" class="nav-wide-wrapper">
+<a aria-keyshortcuts="Left" aria-label="Previous chapter" class="nav-chapters previous" href="A_Passport_of_Pages.html" rel="prev" title="Previous chapter">
+<i class="fa fa-angle-left"></i>
+</a>
+</nav>
+</div>
+<script>
+            window.playground_copyable = true;
+        </script>
+<script src="elasticlunr.min.js"></script>
+<script src="mark.min.js"></script>
+<script src="searcher.js"></script>
+<script src="clipboard.min.js"></script>
+<script src="highlight.js"></script>
+<script src="book.js"></script>
+<!-- Custom JS scripts -->
+</div>
+</body>
+</html>
